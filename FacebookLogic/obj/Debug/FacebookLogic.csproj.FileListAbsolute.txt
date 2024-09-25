@@ -1,0 +1,12 @@
+C:\Users\nahmu\Downloads\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.csproj.AssemblyReference.cache
+C:\Users\nahmu\Downloads\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\bin\Debug\FacebookLogic.dll.config
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\bin\Debug\FacebookLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\bin\Debug\FacebookLogic.pdb
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\bin\Debug\Facebook.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.csproj.AssemblyReference.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.csproj.CoreCompileInputs.cache
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\Facebook.F7D41140.Up2Date
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.dll
+C:\Users\nahmu\OneDrive\שולחן העבודה\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\FacebookLogic\obj\Debug\FacebookLogic.pdb

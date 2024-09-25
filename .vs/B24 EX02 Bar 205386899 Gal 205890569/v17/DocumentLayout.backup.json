@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\genericfacebookobjectcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\genericfacebookobjectcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formadvancedsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formadvancedsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formadvancedsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formadvancedsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formfacebookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formfacebookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formfacebookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formfacebookcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebooklogic\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebooklogic\\iabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\iabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebooklogic\\facebookfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\facebookfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebooklogic\\useridentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\useridentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|c:\\users\\nahmu\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\b24 ex02 barnahmuka 205386899 galnatan 205890569\\b24 ex02 barnahmuka 205386899 galnatan 205890569\\facebooklogic\\advancedsearchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\advancedsearchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebooklogic\\aboutuseradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956F372A-D536-4B99-BB18-646045D98EF2}|FacebookLogic\\FacebookLogic.csproj|solutionrelative:facebooklogic\\aboutuseradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\collectionformfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\collectionformfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\ecollectionformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\ecollectionformtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formadvancedsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formadvancedsearch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formfacebookcollection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formfacebookcollection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\facebookwinformsapp\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905D5BF1-A7E4-4440-85E8-84772F5312D5}|FacebookWinFormsApp\\FacebookWinFormsApp.csproj|solutionrelative:facebookwinformsapp\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormMain.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:06:53.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormMain.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawLgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:58:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAlbums.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAlbums.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormAlbums.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAlbums.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormAlbums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:22:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericFacebookObjectCollection.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\GenericFacebookObjectCollection.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\GenericFacebookObjectCollection.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\GenericFacebookObjectCollection.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\GenericFacebookObjectCollection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:46:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAdvancedSearch.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:18:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAdvancedSearch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormAdvancedSearch.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormAdvancedSearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:06:51.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAlbums.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAlbums.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormAlbums.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAlbums.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormAlbums.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:56:18.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormFacebookCollection.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:53:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormFacebookCollection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormFacebookCollection.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormFacebookCollection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:44:38.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPhotos.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormPhotos.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormPhotos.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormPhotos.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormPhotos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:08:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormPhotos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormPhotos.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormPhotos.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormPhotos.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormPhotos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:17:12.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:59:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:56:21.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\SoundManager.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\SoundManager.cs",
+              "RelativeToolTip": "FacebookLogic\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:10:17.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "iAbout.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\iAbout.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\iAbout.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\iAbout.cs",
+              "RelativeToolTip": "FacebookLogic\\iAbout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:39:52.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FacebookFacade.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\FacebookFacade.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\FacebookFacade.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\FacebookFacade.cs",
+              "RelativeToolTip": "FacebookLogic\\FacebookFacade.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:47:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserIdentification.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\UserIdentification.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\UserIdentification.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\UserIdentification.cs",
+              "RelativeToolTip": "FacebookLogic\\UserIdentification.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA7wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:43:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdvancedSearchLogic.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\AdvancedSearchLogic.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\AdvancedSearchLogic.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\AdvancedSearchLogic.cs",
+              "RelativeToolTip": "FacebookLogic\\AdvancedSearchLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:47:08.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CollectionFormFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\CollectionFormFactory.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\CollectionFormFactory.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\CollectionFormFactory.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\CollectionFormFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:52:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutUserAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\AboutUserAdapter.cs",
+              "RelativeDocumentMoniker": "FacebookLogic\\AboutUserAdapter.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookLogic\\AboutUserAdapter.cs",
+              "RelativeToolTip": "FacebookLogic\\AboutUserAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:32:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "eCollectionFormType.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\eCollectionFormType.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\eCollectionFormType.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\eCollectionFormType.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\eCollectionFormType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:39:25.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormLogin.Designer.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:46:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormAdvancedSearch.designer.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.designer.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormAdvancedSearch.designer.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormAdvancedSearch.designer.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormAdvancedSearch.designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAqwGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:16:12.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormFacebookCollection.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.Designer.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormFacebookCollection.Designer.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormFacebookCollection.Designer.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormFacebookCollection.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:49:12.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FacebookWinFormsApp\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\nahmu\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\B24 EX02 BarNahmuka 205386899 GalNatan 205890569\\FacebookWinFormsApp\\FormMain.Designer.cs",
+              "RelativeToolTip": "FacebookWinFormsApp\\FormMain.Designer.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAqwNsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:13:51.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
