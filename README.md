@@ -14,6 +14,9 @@ The Enhanced Facebook WinForm provides users with a feature-rich Facebook experi
 - Sound Manager: Each user can set a unique theme song for their profile, offering a personalized audio experience when navigating between profiles.
 - User Identification: Streamlines profile identification within the app, adding a layer of personalization.
 - Albums and Collections: Provides organized views of the user's albums and other collections via FormAlbums and FormFacebookCollection forms, allowing structured exploration of media and posts.
+- Data binding: utilized in FormAdvancedSearch, linking the UI elements to underlying data sources. 
+  This ensures dynamic updates based on user selections, providing real-time visual feedback and making data interactions more intuitive.
+
 
 ## Methodology and Design Patterns
 
@@ -42,6 +45,3 @@ The SoundManager class follows the Singleton pattern, allowing only one instance
 Multithreading
 Multithreading is applied in FormMain to improve responsiveness. The FetchData method runs separate threads for each data request, allowing the UI to load while data retrieval continues in the background. This technique reduces loading delays and enhances the user experience by making interactions smoother and faster.
 
-Data Binding
-Data binding is utilized in FormAdvancedSearch, linking the UI elements to underlying data sources. 
-This ensures dynamic updates based on user selections, providing real-time visual feedback and making data interactions more intuitive.
