@@ -8,12 +8,12 @@ In this enhanced edition, new features offer an engaging user experience, while 
 
 The Enhanced Facebook WinForm provides users with a feature-rich Facebook experience that goes beyond standard API interactions:
 
--Slide Show: Displays a randomized slideshow of user photos, creating a nostalgic journey through memories.
--Advanced Search: Allows users to find friends with specific shared interests (such as Liked Pages and events) within a selected age range. 
-This feature has a dedicated FormAdvancedSearch form, streamlining searches for mutual interests.
--Sound Manager: Each user can set a unique theme song for their profile, offering a personalized audio experience when navigating between profiles.
--User Identification: Streamlines profile identification within the app, adding a layer of personalization.
--Albums and Collections: Provides organized views of the user's albums and other collections via FormAlbums and FormFacebookCollection forms, allowing structured exploration of media and posts.
+- Slide Show: Displays a randomized slideshow of user photos, creating a nostalgic journey through memories.
+- Advanced Search: Allows users to find friends with specific shared interests (such as Liked Pages and events) within a selected age range. 
+  This feature has a dedicated FormAdvancedSearch form, streamlining searches for mutual interests.
+- Sound Manager: Each user can set a unique theme song for their profile, offering a personalized audio experience when navigating between profiles.
+- User Identification: Streamlines profile identification within the app, adding a layer of personalization.
+- Albums and Collections: Provides organized views of the user's albums and other collections via FormAlbums and FormFacebookCollection forms, allowing structured exploration of media and posts.
 
 ## Methodology and Design Patterns
 
